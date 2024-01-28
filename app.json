@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "watermerlondb-example",
+    "slug": "watermerlondb-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
