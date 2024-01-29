@@ -9,13 +9,22 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@nozbe/watermelondb": "^0.27.1",
+    "@nozbe/with-observables": "^1.6.0",
+    "@types/react": "~18.2.45",
     "expo": "~50.0.4",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-sqlite-2": "^3.6.2",
+    "styled-components": "^6.1.8",
+    "typescript": "^5.3.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "@babel/plugin-proposal-decorators": "^7.23.7",
+    "@expo/webpack-config": "^19.0.0",
+    "ts-node": "^10.9.2"
   },
   "private": true
 }
